@@ -1,0 +1,13 @@
+D:\Staż\ProgramCSharp\ProgramCSharp\bin\Debug\ProgramCSharp.exe.config
+D:\Staż\ProgramCSharp\ProgramCSharp\bin\Debug\ProgramCSharp.exe
+D:\Staż\ProgramCSharp\ProgramCSharp\bin\Debug\ProgramCSharp.pdb
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\Interop.MLApp.dll
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.csproj.ResolveComReference.cache
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.Properties.Resources.resources
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.csproj.GenerateResource.Cache
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.exe
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.pdb
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.MainForm.resources
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.csprojResolveAssemblyReference.cache
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.StosunkiCalek.resources
+D:\Staż\ProgramCSharp\ProgramCSharp\obj\Debug\ProgramCSharp.SpecialDataTable.resources

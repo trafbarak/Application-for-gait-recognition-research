@@ -1,0 +1,47 @@
+function [os, oska] = wybor_osi(wybrana_os)
+%Oœ z - skierowana do kamery - 3
+%Oœ y - skierowana do góry - 2
+%Oœ x - skierowana w prawo (patrz¹c od strony kamery) - 1
+
+prompt = 'Podaj wspó³rzêdn¹ [x/y/z], któr¹ chcesz wykreœliæ wzglêdem osi czasu: ';
+oska = input(prompt,'s');
+if (oska == 'x')
+    os = 1;
+else if (oska == 'y')
+        os = 2;
+    else if (oska == 'z')
+            os = 3;
+        end;
+    end;
+end;
+
+
+% wykres = zeros(4, length(t));
+% v = [0,0,0,1]';
+% indeksy = [];
+% while SKELETON(staw).parent ~= 0
+%     indeksy = [indeksy, staw];
+%     staw = SKELETON(staw).parent;
+% end;
+% 
+% for i=1:length(t)
+%     macierz = diag(4);
+%     for j=length(indeksy):-1:1
+%         macierz = macierz * SKELETON(indeksy(j)).trans(:,:,i);
+%     end;
+%     w = macierz * v;
+%     wykres(1,i) = w(1);
+%     wykres(2,i) = w(2);
+%     wykres(3,i) = w(3);
+%     wykres(4,i) = w(4);
+% end;
+
+% t1 = zeros(floor(length(t)/6));
+% wykres2 = zeros(4, length(t1));
+% for i=1:length(t1)
+%     t1(i) = t(i);
+%     wykres2(1,i) = wykres(1,i);
+%     wykres2(2,i) = wykres(2,i);
+%     wykres2(3,i) = wykres(3,i);
+%     wykres2(4,i) = wykres(4,i);
+% end;
