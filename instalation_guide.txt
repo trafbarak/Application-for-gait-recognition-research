@@ -1,0 +1,4 @@
+Make sure, that you have Matlab installed on your computer, version 2013a or above.
+1. Create C:\temp\example directory and paste into it Matlab scripts from 'Matlab functions' folder
+2. Open 'ProgramCSharp' folder and compile application
+3. Run application
